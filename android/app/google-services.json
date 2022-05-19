@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557162000799",
+    "project_id": "mobilestore-200e4",
+    "storage_bucket": "mobilestore-200e4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557162000799:android:2eb9d8537b9d69fcdd0daa",
+        "android_client_info": {
+          "package_name": "neo.mobilestore.neomobilestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557162000799-jbmr9a9n5hjqsufm1ilr787j62pbhahk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDYK3F8Hwdj1D7QFU0Blx_gjS7F7Mi734"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557162000799-jbmr9a9n5hjqsufm1ilr787j62pbhahk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
